@@ -9,42 +9,49 @@ interface IExecutives {
 }
 
 const EXECUTIVES: Array<IExecutives> = [
-    {
-        name: "Steven Iguza",
-        photo: "/assets/steven-iguza.png",
-        position: "President"
-    },
-    {
-        name: "Farida Dantata",
-        photo: "/assets/farida-dantata.png",
-        position: "Vice President"
-    },
-    {
-        name: "Zainab Hadi",
-        photo: "/assets/zainab-hadi.png",
-        position: "Treasurer"
-    },
-    {
-        name: "Okeke Okemsinachi",
-        photo: "/assets/okemsinachi-okeke.png",
-        position: "Financial Secretary"
-    },
-    {
-        name: "Sopruchukwu Ashford Mbachu",
-        photo: "/assets/sopru-mbachu.png",
-        position: "General Secretary"
-    },
-    {
-        name: "Onanefe Great Akpotu",
-        photo: "/assets/onanefe-great.png",
-        position: "Social Media Director"
-    },
-    {
-        name: "Nansak Destiny Daji",
-        photo: "/assets/nansak-daji.png",
-        position: "PRO"
-    },
-]
+  {
+    name: "Steven Iguza",
+    photo:
+      "https://owad17hypl5lwyn4.public.blob.vercel-storage.com/steven-iguza-he5uUn7VID9BeGQjwASd02Th6klseL.png",
+    position: "President",
+  },
+  {
+    name: "Farida Dantata",
+    photo:
+      "https://owad17hypl5lwyn4.public.blob.vercel-storage.com/farida-dantata-K97TpWGvOToQ4fxglFi54TnhHwwc8Y.png",
+    position: "Vice President",
+  },
+  {
+    name: "Zainab Hadi",
+    photo:
+      "https://owad17hypl5lwyn4.public.blob.vercel-storage.com/zainab-hadi-Z2LyZ4Rur1xGowYWRpW41Dada2FkI5.png",
+    position: "Treasurer",
+  },
+  {
+    name: "Okeke Okemsinachi",
+    photo:
+      "https://owad17hypl5lwyn4.public.blob.vercel-storage.com/okemsinachi-okeke-JvqLgfuDDlaK7uGiLDz0hQJYygfGK3.png",
+    position: "Financial Secretary",
+  },
+  {
+    name: "Sopruchukwu Ashford Mbachu",
+    photo:
+      "https://owad17hypl5lwyn4.public.blob.vercel-storage.com/sopru-mbachu-pQsOCYUdWTFijuSmzz4F062ti4Zssg.png",
+    position: "General Secretary",
+  },
+  {
+    name: "Onanefe Great Akpotu",
+    photo:
+      "https://owad17hypl5lwyn4.public.blob.vercel-storage.com/onanefe-great-romQvIHcopKrbyR0vmylTZEnjjJviJ.png",
+    position: "Social Media Director",
+  },
+  {
+    name: "Nansak Destiny Daji",
+    photo:
+      "https://owad17hypl5lwyn4.public.blob.vercel-storage.com/nansak-daji-y2g4RxZPVTlTyWmD7OGLYIFQKi7lnA.png",
+    position: "PRO",
+  },
+];
 
 const ACCOMPLISHMENTS = [
     "Establishing an official association website.",
